@@ -19,7 +19,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
 ![Eslint](https://img.shields.io/badge/-Eslint-000000?style=for-the-badge&logo=eslint)
 ![prettier](https://img.shields.io/badge/-prettier-000000?style=for-the-badge&logo=prettier)
-[![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)]
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ### Contact
 
 [![linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavel-pogulailo-725138259/)
