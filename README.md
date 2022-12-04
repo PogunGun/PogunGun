@@ -28,5 +28,7 @@
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pogulailo_/)
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/PogunGun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pogungun)](https://github.com/PogunGun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
