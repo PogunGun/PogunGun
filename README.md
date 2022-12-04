@@ -1,5 +1,3 @@
-<center><img src="https://i.gifer.com/78KH.gif"></center>
-
 ![JavaScript](https://i.gifer.com/78KH.gif)
 ### Skill
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
