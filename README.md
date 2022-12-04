@@ -1,4 +1,4 @@
-![78KH](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 <a href=#><img src="contributions.svg"></a>
 
 ### Skill
