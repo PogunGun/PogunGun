@@ -29,3 +29,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/PogunGun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pogungun)](https://github.com/PogunGun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
