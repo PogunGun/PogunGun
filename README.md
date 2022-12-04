@@ -1,7 +1,7 @@
 ![78KH](https://user-images.githubusercontent.com/76246480/205505706-1dbeaa4e-30b3-45e4-aaae-0749ecba2977.gif)
 
 ### Skill
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
