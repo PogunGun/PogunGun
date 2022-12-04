@@ -1,4 +1,4 @@
-![78KH]([https://user-images.githubusercontent.com/76246480/205506925-c087bdce-178e-4058-b9f9-e37060aa7d2a.gif](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif))
+![78KH](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 ### Skill
