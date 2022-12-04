@@ -1,5 +1,5 @@
 ![78KH](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
+<a href=#><img src="contributions.svg"></a>
 
 ### Skill
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
@@ -29,16 +29,11 @@
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pogulailo_/)
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/PogunGun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/PogunGun)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pogungun&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pogungun&theme=solarized_dark)
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/pogungun/count.svg" />
 </p>
 
