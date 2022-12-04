@@ -1,4 +1,4 @@
-![78KH](https://user-images.githubusercontent.com/76246480/205505706-1dbeaa4e-30b3-45e4-aaae-0749ecba2977.gif)
+![78KH](https://hackernoon.com/images/f2px36fy.gif)
 
 ### Skill
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
