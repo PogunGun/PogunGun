@@ -1,4 +1,4 @@
-![78KH](https://hackernoon.com/images/f2px36fy.gif)
+![78KH]([https://hackernoon.com/images/f2px36fy.gif](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif))
 
 ### Skill
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
