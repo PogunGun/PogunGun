@@ -30,8 +30,7 @@
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/PogunGun)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pogungun&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pogungun&theme=solarized_dark)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pogungun/count.svg" />
