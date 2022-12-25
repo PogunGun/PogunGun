@@ -2,11 +2,11 @@
 <a href=#><img src="contributions.svg"></a>
 
 ### Skill
+[![NodeJs](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js&logoColor)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![NodeJs](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js&logoColor)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
