@@ -10,7 +10,7 @@
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-[![Docker](https://img.shields.io/badge/-APOLLO-000000?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-000000?style=for-the-badge&logo=webdriverio)](https://webdriver.io/)
