@@ -8,8 +8,6 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![NodeJs](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js&logoColor)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest)](https://jestjs.io/)
@@ -23,6 +21,8 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Eslint](https://img.shields.io/badge/-Eslint-000000?style=for-the-badge&logo=eslint)](https://eslint.org/)
 [![prettier](https://img.shields.io/badge/-prettier-000000?style=for-the-badge&logo=prettier)](https://prettier.io/)
+[![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)](https://git-scm.com/)
 ### Contact
 
