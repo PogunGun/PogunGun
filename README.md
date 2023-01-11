@@ -27,7 +27,6 @@
 ### Contact
 
 [![linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavel-pogulailo-725138259/)
-[![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pogulailo_/)
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/PogunGun)
 
 
